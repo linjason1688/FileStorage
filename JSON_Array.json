@@ -1,0 +1,40 @@
+[
+    {
+        "firstname" : "Jason",
+        "height" : 170,
+        "email": "lin.jason1688@gmail.com",
+    
+        "city": {
+            "通訊地址": "新竹",
+            "戶籍地址": "台北"
+        },
+    
+        "phone": {
+            "市話": "02-28803300",
+            "行動電話": "0988-168517"
+        },
+    
+        "cars": [ "Kymco", "SYM", "Honda"]
+    },
+    {
+        "firstname" : "Mary",
+        "height" : 160,
+        "email": "Mary1688@gmail.com",
+    
+        "city": {
+            "通訊地址": "台中",
+            "戶籍地址": "高雄"
+        },
+    
+        "phone": {
+            "市話": "04-40695858",
+            "行動電話": "0925-155228"
+        },
+    
+        "cars": [ 
+            "Ford",
+            "Lancer",
+            "Gogoro"
+        ]
+    }
+]
