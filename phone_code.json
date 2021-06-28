@@ -1,0 +1,1227 @@
+[
+    {
+        "countryCode": "BT",
+        "title": "不丹 (+975)",
+        "callingCode": "975"
+    },
+    {
+        "countryCode": "CN",
+        "title": "中國 (+86)",
+        "callingCode": "86"
+    },
+    {
+        "countryCode": "CF",
+        "title": "中非共和國 (+236)",
+        "callingCode": "236"
+    },
+    {
+        "countryCode": "DK",
+        "title": "丹麥 (+45)",
+        "callingCode": "45"
+    },
+    {
+        "countryCode": "AZ",
+        "title": "亞塞拜然 (+994)",
+        "callingCode": "994"
+    },
+    {
+        "countryCode": "AM",
+        "title": "亞美尼亞 (+374)",
+        "callingCode": "374"
+    },
+    {
+        "countryCode": "IL",
+        "title": "以色列 (+972)",
+        "callingCode": "972"
+    },
+    {
+        "countryCode": "IQ",
+        "title": "伊拉克 (+964)",
+        "callingCode": "964"
+    },
+    {
+        "countryCode": "IR",
+        "title": "伊朗 (+98)",
+        "callingCode": "98"
+    },
+    {
+        "countryCode": "RU",
+        "title": "俄羅斯 (+7)",
+        "callingCode": "7"
+    },
+    {
+        "countryCode": "BG",
+        "title": "保加利亞 (+359)",
+        "callingCode": "359"
+    },
+    {
+        "countryCode": "HR",
+        "title": "克羅埃西亞 (+385)",
+        "callingCode": "385"
+    },
+    {
+        "countryCode": "IS",
+        "title": "冰島 (+354)",
+        "callingCode": "354"
+    },
+    {
+        "countryCode": "LI",
+        "title": "列支敦斯登 (+423)",
+        "callingCode": "423"
+    },
+    {
+        "countryCode": "LY",
+        "title": "利比亞 (+218)",
+        "callingCode": "218"
+    },
+    {
+        "countryCode": "CG",
+        "title": "剛果共和國 (+242)",
+        "callingCode": "242"
+    },
+    {
+        "countryCode": "CD",
+        "title": "剛果民主共和國 (+243)",
+        "callingCode": "243"
+    },
+    {
+        "countryCode": "GA",
+        "title": "加彭 (+241)",
+        "callingCode": "241"
+    },
+    {
+        "countryCode": "CA",
+        "title": "加拿大 (+1)",
+        "callingCode": "1"
+    },
+    {
+        "countryCode": "HU",
+        "title": "匈牙利 (+36)",
+        "callingCode": "36"
+    },
+    {
+        "countryCode": "KP",
+        "title": "北韓 (+850)",
+        "callingCode": "850"
+    },
+    {
+        "countryCode": "MP",
+        "title": "北馬利安納群島 (+1670)",
+        "callingCode": "1670"
+    },
+    {
+        "countryCode": "TT",
+        "title": "千里達及托貝哥 (+1868)",
+        "callingCode": "1868"
+    },
+    {
+        "countryCode": "GS",
+        "title": "南喬治島 (+500)",
+        "callingCode": "500"
+    },
+    {
+        "countryCode": "SS",
+        "title": "南蘇丹 (+211)",
+        "callingCode": "211"
+    },
+    {
+        "countryCode": "ZA",
+        "title": "南非 (+27)",
+        "callingCode": "27"
+    },
+    {
+        "countryCode": "QA",
+        "title": "卡達 (+974)",
+        "callingCode": "974"
+    },
+    {
+        "countryCode": "ID",
+        "title": "印尼 (+62)",
+        "callingCode": "62"
+    },
+    {
+        "countryCode": "IN",
+        "title": "印度 (+91)",
+        "callingCode": "91"
+    },
+    {
+        "countryCode": "ER",
+        "title": "厄利垂亞 (+291)",
+        "callingCode": "291"
+    },
+    {
+        "countryCode": "EC",
+        "title": "厄瓜多 (+593)",
+        "callingCode": "593"
+    },
+    {
+        "countryCode": "CU",
+        "title": "古巴 (+53)",
+        "callingCode": "53"
+    },
+    {
+        "countryCode": "CW",
+        "title": "古拉索 (+599)",
+        "callingCode": "599"
+    },
+    {
+        "countryCode": "CC",
+        "title": "可可斯(基林)群島 (+61)",
+        "callingCode": "61"
+    },
+    {
+        "countryCode": "TW",
+        "title": "台灣 (+886)",
+        "callingCode": "886"
+    },
+    {
+        "countryCode": "SZ",
+        "title": "史瓦濟蘭 (+268)",
+        "callingCode": "268"
+    },
+    {
+        "countryCode": "DJ",
+        "title": "吉布地 (+253)",
+        "callingCode": "253"
+    },
+    {
+        "countryCode": "KG",
+        "title": "吉爾吉斯 (+996)",
+        "callingCode": "996"
+    },
+    {
+        "countryCode": "KI",
+        "title": "吉里巴斯 (+686)",
+        "callingCode": "686"
+    },
+    {
+        "countryCode": "TV",
+        "title": "吐瓦魯 (+688)",
+        "callingCode": "688"
+    },
+    {
+        "countryCode": "KZ",
+        "title": "哈薩克 (+7)",
+        "callingCode": "76"
+    },
+    {
+        "countryCode": "CO",
+        "title": "哥倫比亞 (+57)",
+        "callingCode": "57"
+    },
+    {
+        "countryCode": "CR",
+        "title": "哥斯大黎加 (+506)",
+        "callingCode": "506"
+    },
+    {
+        "countryCode": "CM",
+        "title": "喀麥隆 (+237)",
+        "callingCode": "237"
+    },
+    {
+        "countryCode": "GE",
+        "title": "喬治亞 (+995)",
+        "callingCode": "995"
+    },
+    {
+        "countryCode": "TC",
+        "title": "土克凱可群島 (+1649)",
+        "callingCode": "1649"
+    },
+    {
+        "countryCode": "TM",
+        "title": "土庫曼 (+993)",
+        "callingCode": "993"
+    },
+    {
+        "countryCode": "TR",
+        "title": "土耳其 (+90)",
+        "callingCode": "90"
+    },
+    {
+        "countryCode": "TZ",
+        "title": "坦尚尼亞 (+255)",
+        "callingCode": "255"
+    },
+    {
+        "countryCode": "EG",
+        "title": "埃及 (+20)",
+        "callingCode": "20"
+    },
+    {
+        "countryCode": "TJ",
+        "title": "塔吉克 (+992)",
+        "callingCode": "992"
+    },
+    {
+        "countryCode": "SN",
+        "title": "塞內加爾 (+221)",
+        "callingCode": "221"
+    },
+    {
+        "countryCode": "SC",
+        "title": "塞席爾 (+248)",
+        "callingCode": "248"
+    },
+    {
+        "countryCode": "RS",
+        "title": "塞爾維亞 (+381)",
+        "callingCode": "381"
+    },
+    {
+        "countryCode": "MX",
+        "title": "墨西哥 (+52)",
+        "callingCode": "52"
+    },
+    {
+        "countryCode": "TG",
+        "title": "多哥 (+228)",
+        "callingCode": "228"
+    },
+    {
+        "countryCode": "DO",
+        "title": "多明尼加共和國 (+1809)",
+        "callingCode": "1809"
+    },
+    {
+        "countryCode": "DM",
+        "title": "多米尼克 (+1767)",
+        "callingCode": "1767"
+    },
+    {
+        "countryCode": "NG",
+        "title": "奈及利亞 (+234)",
+        "callingCode": "234"
+    },
+    {
+        "countryCode": "AT",
+        "title": "奧地利 (+43)",
+        "callingCode": "43"
+    },
+    {
+        "countryCode": "AX",
+        "title": "奧蘭群島 (+358)",
+        "callingCode": "358"
+    },
+    {
+        "countryCode": "VE",
+        "title": "委內瑞拉 (+58)",
+        "callingCode": "58"
+    },
+    {
+        "countryCode": "BD",
+        "title": "孟加拉國 (+880)",
+        "callingCode": "880"
+    },
+    {
+        "countryCode": "AO",
+        "title": "安哥拉 (+244)",
+        "callingCode": "244"
+    },
+    {
+        "countryCode": "AI",
+        "title": "安圭拉 (+1264)",
+        "callingCode": "1264"
+    },
+    {
+        "countryCode": "AG",
+        "title": "安地卡及巴布達 (+1268)",
+        "callingCode": "1268"
+    },
+    {
+        "countryCode": "AD",
+        "title": "安道爾 (+376)",
+        "callingCode": "376"
+    },
+    {
+        "countryCode": "HN",
+        "title": "宏都拉斯 (+504)",
+        "callingCode": "504"
+    },
+    {
+        "countryCode": "FM",
+        "title": "密克羅尼西亞聯邦 (+691)",
+        "callingCode": "691"
+    },
+    {
+        "countryCode": "LA",
+        "title": "寮國 (+856)",
+        "callingCode": "856"
+    },
+    {
+        "countryCode": "ZM",
+        "title": "尚比亞 (+260)",
+        "callingCode": "260"
+    },
+    {
+        "countryCode": "NI",
+        "title": "尼加拉瓜 (+505)",
+        "callingCode": "505"
+    },
+    {
+        "countryCode": "NE",
+        "title": "尼日 (+227)",
+        "callingCode": "227"
+    },
+    {
+        "countryCode": "NP",
+        "title": "尼泊爾 (+977)",
+        "callingCode": "977"
+    },
+    {
+        "countryCode": "PS",
+        "title": "巴勒斯坦 (+970)",
+        "callingCode": "970"
+    },
+    {
+        "countryCode": "BS",
+        "title": "巴哈馬群島 (+1242)",
+        "callingCode": "1242"
+    },
+    {
+        "countryCode": "PK",
+        "title": "巴基斯坦 (+92)",
+        "callingCode": "92"
+    },
+    {
+        "countryCode": "PG",
+        "title": "巴布亞紐幾內亞 (+675)",
+        "callingCode": "675"
+    },
+    {
+        "countryCode": "PY",
+        "title": "巴拉圭 (+595)",
+        "callingCode": "595"
+    },
+    {
+        "countryCode": "PA",
+        "title": "巴拿馬 (+507)",
+        "callingCode": "507"
+    },
+    {
+        "countryCode": "BH",
+        "title": "巴林 (+973)",
+        "callingCode": "973"
+    },
+    {
+        "countryCode": "BR",
+        "title": "巴西 (+55)",
+        "callingCode": "55"
+    },
+    {
+        "countryCode": "BB",
+        "title": "巴貝多 (+1246)",
+        "callingCode": "1246"
+    },
+    {
+        "countryCode": "BF",
+        "title": "布吉納法索 (+226)",
+        "callingCode": "226"
+    },
+    {
+        "countryCode": "GR",
+        "title": "希臘 (+30)",
+        "callingCode": "30"
+    },
+    {
+        "countryCode": "PW",
+        "title": "帛琉 (+680)",
+        "callingCode": "680"
+    },
+    {
+        "countryCode": "GN",
+        "title": "幾內亞 (+224)",
+        "callingCode": "224"
+    },
+    {
+        "countryCode": "GW",
+        "title": "幾內亞比索 (+245)",
+        "callingCode": "245"
+    },
+    {
+        "countryCode": "CK",
+        "title": "庫克群島 (+682)",
+        "callingCode": "682"
+    },
+    {
+        "countryCode": "DE",
+        "title": "德國 (+49)",
+        "callingCode": "49"
+    },
+    {
+        "countryCode": "EE",
+        "title": "愛沙尼亞 (+372)",
+        "callingCode": "372"
+    },
+    {
+        "countryCode": "IE",
+        "title": "愛爾蘭 (+353)",
+        "callingCode": "353"
+    },
+    {
+        "countryCode": "TK",
+        "title": "托克勞 (+690)",
+        "callingCode": "690"
+    },
+    {
+        "countryCode": "LV",
+        "title": "拉脫維亞 (+371)",
+        "callingCode": "371"
+    },
+    {
+        "countryCode": "NO",
+        "title": "挪威 (+47)",
+        "callingCode": "47"
+    },
+    {
+        "countryCode": "CZ",
+        "title": "捷克 (+420)",
+        "callingCode": "420"
+    },
+    {
+        "countryCode": "MA",
+        "title": "摩洛哥 (+212)",
+        "callingCode": "212"
+    },
+    {
+        "countryCode": "MD",
+        "title": "摩爾多瓦 (+373)",
+        "callingCode": "373"
+    },
+    {
+        "countryCode": "MC",
+        "title": "摩納哥 (+377)",
+        "callingCode": "377"
+    },
+    {
+        "countryCode": "SY",
+        "title": "敘利亞 (+963)",
+        "callingCode": "963"
+    },
+    {
+        "countryCode": "VA",
+        "title": "教廷/梵蒂岡 (+379)",
+        "callingCode": "379"
+    },
+    {
+        "countryCode": "FJ",
+        "title": "斐濟 (+679)",
+        "callingCode": "679"
+    },
+    {
+        "countryCode": "SK",
+        "title": "斯洛伐克 (+421)",
+        "callingCode": "421"
+    },
+    {
+        "countryCode": "SI",
+        "title": "斯洛維尼亞 (+386)",
+        "callingCode": "386"
+    },
+    {
+        "countryCode": "SJ",
+        "title": "斯瓦巴和揚馬延島 (+4779)",
+        "callingCode": "4779"
+    },
+    {
+        "countryCode": "LK",
+        "title": "斯里蘭卡 (+94)",
+        "callingCode": "94"
+    },
+    {
+        "countryCode": "SG",
+        "title": "新加坡 (+65)",
+        "callingCode": "65"
+    },
+    {
+        "countryCode": "NC",
+        "title": "新喀里多尼亞 (+687)",
+        "callingCode": "687"
+    },
+    {
+        "countryCode": "JP",
+        "title": "日本 (+81)",
+        "callingCode": "81"
+    },
+    {
+        "countryCode": "CL",
+        "title": "智利 (+56)",
+        "callingCode": "56"
+    },
+    {
+        "countryCode": "IM",
+        "title": "曼島 (+441624)",
+        "callingCode": "44"
+    },
+    {
+        "countryCode": "TO",
+        "title": "東加 (+676)",
+        "callingCode": "676"
+    },
+    {
+        "countryCode": "TL",
+        "title": "東帝汶 (+670)",
+        "callingCode": "670"
+    },
+    {
+        "countryCode": "TD",
+        "title": "查德 (+235)",
+        "callingCode": "235"
+    },
+    {
+        "countryCode": "KH",
+        "title": "柬埔寨 (+855)",
+        "callingCode": "855"
+    },
+    {
+        "countryCode": "GD",
+        "title": "格瑞那達 (+1473)",
+        "callingCode": "1473"
+    },
+    {
+        "countryCode": "GL",
+        "title": "格陵蘭島 (+299)",
+        "callingCode": "299"
+    },
+    {
+        "countryCode": "MU",
+        "title": "模里西斯 (+230)",
+        "callingCode": "230"
+    },
+    {
+        "countryCode": "BE",
+        "title": "比利時 (+32)",
+        "callingCode": "32"
+    },
+    {
+        "countryCode": "BN",
+        "title": "汶萊 (+673)",
+        "callingCode": "673"
+    },
+    {
+        "countryCode": "SA",
+        "title": "沙烏地阿拉伯 (+966)",
+        "callingCode": "966"
+    },
+    {
+        "countryCode": "FR",
+        "title": "法國 (+33)",
+        "callingCode": "33"
+    },
+    {
+        "countryCode": "PF",
+        "title": "法屬玻里尼西亞 (+689)",
+        "callingCode": "689"
+    },
+    {
+        "countryCode": "GF",
+        "title": "法屬蓋亞那 (+594)",
+        "callingCode": "594"
+    },
+    {
+        "countryCode": "FO",
+        "title": "法羅群島 (+298)",
+        "callingCode": "298"
+    },
+    {
+        "countryCode": "BA",
+        "title": "波士尼亞與赫塞哥維納 (+387)",
+        "callingCode": "387"
+    },
+    {
+        "countryCode": "PR",
+        "title": "波多黎各 (+1787)",
+        "callingCode": "1787"
+    },
+    {
+        "countryCode": "BW",
+        "title": "波札那 (+267)",
+        "callingCode": "267"
+    },
+    {
+        "countryCode": "BQ",
+        "title": "波納爾島 (+5997)",
+        "callingCode": "5997"
+    },
+    {
+        "countryCode": "PL",
+        "title": "波蘭 (+48)",
+        "callingCode": "48"
+    },
+    {
+        "countryCode": "TH",
+        "title": "泰國 (+66)",
+        "callingCode": "66"
+    },
+    {
+        "countryCode": "HT",
+        "title": "海地 (+509)",
+        "callingCode": "509"
+    },
+    {
+        "countryCode": "JE",
+        "title": "澤西 (+441534)",
+        "callingCode": "44"
+    },
+    {
+        "countryCode": "AU",
+        "title": "澳洲 (+61)",
+        "callingCode": "61"
+    },
+    {
+        "countryCode": "MO",
+        "title": "澳門 (+853)",
+        "callingCode": "853"
+    },
+    {
+        "countryCode": "UA",
+        "title": "烏克蘭 (+380)",
+        "callingCode": "380"
+    },
+    {
+        "countryCode": "UG",
+        "title": "烏干達 (+256)",
+        "callingCode": "256"
+    },
+    {
+        "countryCode": "UY",
+        "title": "烏拉圭 (+598)",
+        "callingCode": "598"
+    },
+    {
+        "countryCode": "UZ",
+        "title": "烏茲別克 (+998)",
+        "callingCode": "998"
+    },
+    {
+        "countryCode": "JM",
+        "title": "牙買加 (+1876)",
+        "callingCode": "1876"
+    },
+    {
+        "countryCode": "SL",
+        "title": "獅子山 (+232)",
+        "callingCode": "232"
+    },
+    {
+        "countryCode": "BO",
+        "title": "玻利維亞 (+591)",
+        "callingCode": "591"
+    },
+    {
+        "countryCode": "SE",
+        "title": "瑞典 (+46)",
+        "callingCode": "46"
+    },
+    {
+        "countryCode": "CH",
+        "title": "瑞士 (+41)",
+        "callingCode": "41"
+    },
+    {
+        "countryCode": "GT",
+        "title": "瓜地馬拉 (+502)",
+        "callingCode": "502"
+    },
+    {
+        "countryCode": "GP",
+        "title": "瓜德羅普群島 (+590)",
+        "callingCode": "590"
+    },
+    {
+        "countryCode": "WF",
+        "title": "瓦利斯和富圖納群島 (+681)",
+        "callingCode": "681"
+    },
+    {
+        "countryCode": "GM",
+        "title": "甘比亞 (+220)",
+        "callingCode": "220"
+    },
+    {
+        "countryCode": "RE",
+        "title": "留尼旺 (+262)",
+        "callingCode": "262"
+    },
+    {
+        "countryCode": "BY",
+        "title": "白俄羅斯 (+375)",
+        "callingCode": "375"
+    },
+    {
+        "countryCode": "BM",
+        "title": "百慕達 (+1441)",
+        "callingCode": "1441"
+    },
+    {
+        "countryCode": "PN",
+        "title": "皮特肯群島 (+64)",
+        "callingCode": "64"
+    },
+    {
+        "countryCode": "RW",
+        "title": "盧安達 (+250)",
+        "callingCode": "250"
+    },
+    {
+        "countryCode": "LU",
+        "title": "盧森堡 (+352)",
+        "callingCode": "352"
+    },
+    {
+        "countryCode": "GI",
+        "title": "直布羅陀 (+350)",
+        "callingCode": "350"
+    },
+    {
+        "countryCode": "FK",
+        "title": "福克蘭群島 (+500)",
+        "callingCode": "500"
+    },
+    {
+        "countryCode": "KW",
+        "title": "科威特 (+965)",
+        "callingCode": "965"
+    },
+    {
+        "countryCode": "XK",
+        "title": "科索沃共和國 (+383)",
+        "callingCode": "383"
+    },
+    {
+        "countryCode": "PE",
+        "title": "秘魯 (+51)",
+        "callingCode": "51"
+    },
+    {
+        "countryCode": "TN",
+        "title": "突尼西亞 (+ 216)",
+        "callingCode": "216"
+    },
+    {
+        "countryCode": "LT",
+        "title": "立陶宛 (+370)",
+        "callingCode": "370"
+    },
+    {
+        "countryCode": "JO",
+        "title": "約旦 (+962)",
+        "callingCode": "962"
+    },
+    {
+        "countryCode": "NA",
+        "title": "納米比亞 (+264)",
+        "callingCode": "264"
+    },
+    {
+        "countryCode": "NU",
+        "title": "紐埃島 (+683)",
+        "callingCode": "683"
+    },
+    {
+        "countryCode": "NZ",
+        "title": "紐西蘭 (+64)",
+        "callingCode": "64"
+    },
+    {
+        "countryCode": "SB",
+        "title": "索羅門群島 (+677)",
+        "callingCode": "677"
+    },
+    {
+        "countryCode": "SO",
+        "title": "索馬利亞 (+252)",
+        "callingCode": "252"
+    },
+    {
+        "countryCode": "CV",
+        "title": "維德角 (+238)",
+        "callingCode": "238"
+    },
+    {
+        "countryCode": "MM",
+        "title": "緬甸 (+95)",
+        "callingCode": "95"
+    },
+    {
+        "countryCode": "RO",
+        "title": "羅馬尼亞 (+40)",
+        "callingCode": "40"
+    },
+    {
+        "countryCode": "US",
+        "title": "美國 (+1)",
+        "callingCode": "1"
+    },
+    {
+        "countryCode": "VI",
+        "title": "美屬維爾京群島 (+1340)",
+        "callingCode": "1340"
+    },
+    {
+        "countryCode": "AS",
+        "title": "美屬薩摩亞 (+1684)",
+        "callingCode": "1684"
+    },
+    {
+        "countryCode": "YT",
+        "title": "美約特島 (+262)",
+        "callingCode": "262"
+    },
+    {
+        "countryCode": "IT",
+        "title": "義大利 (+39)",
+        "callingCode": "39"
+    },
+    {
+        "countryCode": "GG",
+        "title": "耿西 (+441481)",
+        "callingCode": "44"
+    },
+    {
+        "countryCode": "KN",
+        "title": "聖克里斯多福及尼維斯/聖尼 (+1869)",
+        "callingCode": "1869"
+    },
+    {
+        "countryCode": "ST",
+        "title": "聖多美及普林西比島 (+239)",
+        "callingCode": "239"
+    },
+    {
+        "countryCode": "BL",
+        "title": "聖巴泰勒米 (+590)",
+        "callingCode": "590"
+    },
+    {
+        "countryCode": "VC",
+        "title": "聖文森及格瑞那丁 (+1784)",
+        "callingCode": "1784"
+    },
+    {
+        "countryCode": "PM",
+        "title": "聖皮埃赫和密克隆 (+508)",
+        "callingCode": "508"
+    },
+    {
+        "countryCode": "CX",
+        "title": "聖誕島 (+61)",
+        "callingCode": "61"
+    },
+    {
+        "countryCode": "SH",
+        "title": "聖赫倫那 (+290)",
+        "callingCode": "290"
+    },
+    {
+        "countryCode": "LC",
+        "title": "聖露西亞 (+1758)",
+        "callingCode": "1758"
+    },
+    {
+        "countryCode": "SX",
+        "title": "聖馬丁 (+1721)",
+        "callingCode": "1721"
+    },
+    {
+        "countryCode": "MF",
+        "title": "聖馬丁 (+590)",
+        "callingCode": "590"
+    },
+    {
+        "countryCode": "SM",
+        "title": "聖馬利諾 (+378)",
+        "callingCode": "378"
+    },
+    {
+        "countryCode": "KE",
+        "title": "肯亞 (+254)",
+        "callingCode": "254"
+    },
+    {
+        "countryCode": "FI",
+        "title": "芬蘭 (+358)",
+        "callingCode": "358"
+    },
+    {
+        "countryCode": "GB",
+        "title": "英國 (+44)",
+        "callingCode": "44"
+    },
+    {
+        "countryCode": "IO",
+        "title": "英屬印度洋領土 (+246)",
+        "callingCode": "246"
+    },
+    {
+        "countryCode": "VG",
+        "title": "英屬維爾京群島 (+1284)",
+        "callingCode": "1284"
+    },
+    {
+        "countryCode": "MR",
+        "title": "茅利塔尼亞 (+222)",
+        "callingCode": "222"
+    },
+    {
+        "countryCode": "NL",
+        "title": "荷蘭 (+31)",
+        "callingCode": "31"
+    },
+    {
+        "countryCode": "MZ",
+        "title": "莫三比亞 (+258)",
+        "callingCode": "258"
+    },
+    {
+        "countryCode": "PH",
+        "title": "菲律賓 (+63)",
+        "callingCode": "63"
+    },
+    {
+        "countryCode": "VU",
+        "title": "萬那杜 (+678)",
+        "callingCode": "678"
+    },
+    {
+        "countryCode": "YE",
+        "title": "葉門 (+967)",
+        "callingCode": "967"
+    },
+    {
+        "countryCode": "KM",
+        "title": "葛摩 (+269)",
+        "callingCode": "269"
+    },
+    {
+        "countryCode": "PT",
+        "title": "葡萄牙 (+351)",
+        "callingCode": "351"
+    },
+    {
+        "countryCode": "MN",
+        "title": "蒙古 (+976)",
+        "callingCode": "976"
+    },
+    {
+        "countryCode": "ME",
+        "title": "蒙特內哥羅/黑山 (+382)",
+        "callingCode": "382"
+    },
+    {
+        "countryCode": "MS",
+        "title": "蒙特塞拉特 (+1664)",
+        "callingCode": "1664"
+    },
+    {
+        "countryCode": "BI",
+        "title": "蒲隆地 (+257)",
+        "callingCode": "257"
+    },
+    {
+        "countryCode": "GY",
+        "title": "蓋亞那 (+592)",
+        "callingCode": "592"
+    },
+    {
+        "countryCode": "WS",
+        "title": "薩摩亞 (+685)",
+        "callingCode": "685"
+    },
+    {
+        "countryCode": "SV",
+        "title": "薩爾瓦多 (+503)",
+        "callingCode": "503"
+    },
+    {
+        "countryCode": "SD",
+        "title": "蘇丹 (+249)",
+        "callingCode": "249"
+    },
+    {
+        "countryCode": "SR",
+        "title": "蘇利南 (+597)",
+        "callingCode": "597"
+    },
+    {
+        "countryCode": "ET",
+        "title": "衣索比亞 (+251)",
+        "callingCode": "251"
+    },
+    {
+        "countryCode": "EH",
+        "title": "西撒哈拉 (+212)",
+        "callingCode": "212"
+    },
+    {
+        "countryCode": "ES",
+        "title": "西班牙 (+34)",
+        "callingCode": "34"
+    },
+    {
+        "countryCode": "NF",
+        "title": "諾福克島 (+672)",
+        "callingCode": "672"
+    },
+    {
+        "countryCode": "NR",
+        "title": "諾魯 (+674)",
+        "callingCode": "674"
+    },
+    {
+        "countryCode": "CI",
+        "title": "象牙海岸 (+225)",
+        "callingCode": "225"
+    },
+    {
+        "countryCode": "BJ",
+        "title": "貝南 (+229)",
+        "callingCode": "229"
+    },
+    {
+        "countryCode": "BZ",
+        "title": "貝里斯 (+501)",
+        "callingCode": "501"
+    },
+    {
+        "countryCode": "LR",
+        "title": "賴比瑞亞 (+231)",
+        "callingCode": "231"
+    },
+    {
+        "countryCode": "LS",
+        "title": "賴索托 (+266)",
+        "callingCode": "266"
+    },
+    {
+        "countryCode": "CY",
+        "title": "賽普勒斯 (+357)",
+        "callingCode": "357"
+    },
+    {
+        "countryCode": "GQ",
+        "title": "赤道幾內亞 (+240)",
+        "callingCode": "240"
+    },
+    {
+        "countryCode": "VN",
+        "title": "越南 (+84)",
+        "callingCode": "84"
+    },
+    {
+        "countryCode": "ZW",
+        "title": "辛巴威 (+263)",
+        "callingCode": "263"
+    },
+    {
+        "countryCode": "GH",
+        "title": "迦納 (+233)",
+        "callingCode": "233"
+    },
+    {
+        "countryCode": "KY",
+        "title": "開曼群島 (+1345)",
+        "callingCode": "1345"
+    },
+    {
+        "countryCode": "GU",
+        "title": "關島 (+1671)",
+        "callingCode": "1671"
+    },
+    {
+        "countryCode": "AF",
+        "title": "阿富汗 (+93)",
+        "callingCode": "93"
+    },
+    {
+        "countryCode": "AE",
+        "title": "阿拉伯聯合大公國 (+971)",
+        "callingCode": "971"
+    },
+    {
+        "countryCode": "OM",
+        "title": "阿曼 (+968)",
+        "callingCode": "968"
+    },
+    {
+        "countryCode": "AR",
+        "title": "阿根廷 (+54)",
+        "callingCode": "54"
+    },
+    {
+        "countryCode": "DZ",
+        "title": "阿爾及利亞 (+213)",
+        "callingCode": "213"
+    },
+    {
+        "countryCode": "AL",
+        "title": "阿爾巴尼亞 (+355)",
+        "callingCode": "355"
+    },
+    {
+        "countryCode": "AW",
+        "title": "阿魯巴島 (+297)",
+        "callingCode": "297"
+    },
+    {
+        "countryCode": "KR",
+        "title": "韓國 (+82)",
+        "callingCode": "82"
+    },
+    {
+        "countryCode": "HK",
+        "title": "香港 (+852)",
+        "callingCode": "852"
+    },
+    {
+        "countryCode": "MY",
+        "title": "馬來西亞 (+60)",
+        "callingCode": "60"
+    },
+    {
+        "countryCode": "MK",
+        "title": "馬其頓 (+389)",
+        "callingCode": "389"
+    },
+    {
+        "countryCode": "ML",
+        "title": "馬利 (+223)",
+        "callingCode": "223"
+    },
+    {
+        "countryCode": "MW",
+        "title": "馬拉威 (+265)",
+        "callingCode": "265"
+    },
+    {
+        "countryCode": "MQ",
+        "title": "馬提尼克島 (+596)",
+        "callingCode": "596"
+    },
+    {
+        "countryCode": "MT",
+        "title": "馬爾他 (+356)",
+        "callingCode": "356"
+    },
+    {
+        "countryCode": "MV",
+        "title": "馬爾地夫 (+960)",
+        "callingCode": "960"
+    },
+    {
+        "countryCode": "MH",
+        "title": "馬紹爾群島 (+692)",
+        "callingCode": "692"
+    },
+    {
+        "countryCode": "MG",
+        "title": "馬達加斯加 (+261)",
+        "callingCode": "261"
+    },
+    {
+        "countryCode": "LB",
+        "title": "黎巴嫩 (+961)",
+        "callingCode": "961"
+    }
+]
